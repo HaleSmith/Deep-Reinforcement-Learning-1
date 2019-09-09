@@ -57,4 +57,4 @@ Below the is the running average which improves as agents learns by playing.
 
 mountaincar_vids/openaigym.video.0.38735.video000000.mp4
 
-![Watch the video](mountaincar_vids/openaigym.video.0.38735.video000000.mp4)
+![Watch the video](<iframe src="https://giphy.com/embed/VFMAOlCdCUlDP5oPpY" width="480" height="320" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/VFMAOlCdCUlDP5oPpY">via GIPHY</a></p>)
