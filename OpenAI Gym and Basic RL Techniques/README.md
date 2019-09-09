@@ -54,6 +54,12 @@ Below the is the running average which improves as agents learns by playing.
   <img src="mountain_car_run_avg.png" width="300"/>
 </p>
 
-**Here is how agent performs after learning:**
+Negative of the value function plotted against position and velocity
+<p align="center">
+  <img src="mountain_car_cost_to_go.png" width="300"/>
+</p>
+
+
+**Here is how the agent performs after learning:**
 
 ![Watch the video](mountain_car.gif)
